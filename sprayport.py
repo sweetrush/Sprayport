@@ -12,10 +12,10 @@ print_lock = threading.Lock()
 # Defining Server List
 serverAddress = [
 "10.3.3.1",
-"192.168.114.254",
-"202.4.60.21",
-"202.4.38.151",
-"8.8.8.8"
+"10.5.5.1",
+"10.6.6.1",
+"10.7.7.1",
+"10.8.8.1"
 ]
 
 # Iniation of Server Loop Address Holder
